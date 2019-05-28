@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "name": "object-path",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vegeman/object-path.git",
+  "author": "Vege <1802862@gmail.com>",
+  "license": "MIT"
+}
